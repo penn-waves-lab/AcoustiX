@@ -9,7 +9,7 @@ This repo contains the Sionna ray tracing  engine, which is primarily for radio-
 We are still working on this repo to make it more user-friendly. Stay tuned!
 
 # Updates
-- 2025.12.15: We updated the liscence.
+- 2025.12.15: We updated the license.
 - 2025.03.04: we update the collect_dataset.py. With [detailed configuration files](#simulation-config-file)
 
 
