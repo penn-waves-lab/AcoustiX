@@ -9,6 +9,7 @@ This repo contains the Sionna ray tracing  engine, which is primarily for radio-
 We are still working on this repo to make it more user-friendly. Stay tuned!
 
 # Updates
+- 2025.12.15: We updated the liscence.
 - 2025.03.04: we update the collect_dataset.py. With [detailed configuration files](#simulation-config-file)
 
 
@@ -92,6 +93,8 @@ We refer the following configuration to simu_config/basic_config.yml
 ### Customized environments
 To create your own acoustic environment, please go and check the official tutrial about Sionna: [Create your own scene using blender](https://www.youtube.com/watch?v=7xHLDxUaQ7c)
 
+# Liscense
+AcoustiX is licensed under a [MIT License](LICENSE).
 
 
 # Citation
